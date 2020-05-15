@@ -1,4 +1,4 @@
-package edu.step.javasockets;
+package edu.step.javasockets.continuous;
 
 import java.io.BufferedReader;
 import java.io.IOException;
